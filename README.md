@@ -2,7 +2,7 @@
 <p>
   <img width="400" alt="image" src="https://github.com/user-attachments/assets/3b61ecae-496d-49d5-88f4-96c5bccdc3dd" align="left" />
 <p align="center">
-  <img src="YOUR-ANIMATED-GIF-URL-HERE" alt="I'm Oracle, I know everybody." />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=4500&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=%22I%27m+Oracle%2C+I+know+everybody.%22" alt="Oracle Quote">
 </p>
    <p align="center">
 ⌜ 𝗢𝗥𝗔𝗖𝗟𝗘 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 // 𝗔𝗖𝗖𝗘𝗦𝗦 𝗣𝗢𝗜𝗡𝗧 ⌟<br>
