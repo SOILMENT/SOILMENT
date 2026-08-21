@@ -37,6 +37,8 @@
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/e3bcda8e-b2c0-454e-85f5-1694024270d3" />
 <p align="center">
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/4876507e-686e-4757-9b5d-0dd1323f6e27" />
+p align="center">
+  <img alt="image" src="https://komarev.com/ghpvc/?username=SOILMENT&color=8bcbcd&label=HACKERS&style=for-the-badge" />
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/e3bcda8e-b2c0-454e-85f5-1694024270d3" />
 <p align="right">
   <img width="320" alt="image" src="https://github.com/user-attachments/assets/b81f9a7a-6182-4b73-998c-4ed12134e84e" align="right"/>
@@ -49,6 +51,4 @@
    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=4500&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=%22I%27m+Oracle%2C+I+know+everybody.%22" alt="Oracle Quote">
 <p align="center">
   <img width="70" alt="0b23a065-5466-46a6-806a-e00908fb900f" src="https://github.com/user-attachments/assets/356279b6-93fa-4ad7-96b6-a8741a871fb7" />
-<p align="center">
-   <img alt="image" src="https://komarev.com/ghpvc/?username=SOILMENT&color=8bcbcd&label=HACKERS&style=for-the-badge" />
 <img alt="image" src="https://github.com/user-attachments/assets/8d446c54-9b95-415a-92d0-856a856906b0" />
