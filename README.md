@@ -44,7 +44,7 @@
 <br>
 <br>
  <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=4500&pause=1000&color=00acb2&center=true&vCenter=true&width=500&lines=%22I%27m+Oracle%2C+I+know+everybody.%22" alt="Oracle Quote">
+   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=4500&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=%22I%27m+Oracle%2C+I+know+everybody.%22" alt="Oracle Quote">
 <p align="center">
    <img width="70" lt="65d90e2d-cf43-44df-b243-42629df6cab5" src="https://github.com/user-attachments/assets/99b07f04-db24-478b-a8a9-74e52be93ca6" />
 <img alt="image" src="https://github.com/user-attachments/assets/8d446c54-9b95-415a-92d0-856a856906b0" />
