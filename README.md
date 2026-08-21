@@ -25,8 +25,6 @@
    𝗡𝗢 𝗢𝗡𝗘 𝗨𝗡𝗗𝗘𝗥 𝟭𝟭 𝗢𝗥 𝗔𝗕𝗢𝗩𝗘 𝟮𝟰<br>
    ⌞ 𝗧𝗛𝗔𝗡𝗞 𝗬𝗢𝗨. ⌟
 </p>
-  </p>
-</p>
 <img alt="image" src="https://github.com/user-attachments/assets/73b59caf-9bcb-45b9-85ac-dc1372e2c4a9" />
 
 
