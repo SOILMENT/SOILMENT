@@ -41,7 +41,7 @@
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/4876507e-686e-4757-9b5d-0dd1323f6e27" />
 <p align="center"
   <a href="https://github.com/timstalkerdrake">
-  <img src="https://img.shields.io/badge/credits%20to%20matti-00acb2?style=for-the-badge&labelColor=00acb2&logoColor=white" alt="Credits to Matti">
+    <img src="https://img.shields.io/badge/credits%20to%20matti-00acb2?style=for-the-badge&labelColor=00acb2&logoColor=white" alt="Credits to Matti">
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/e3bcda8e-b2c0-454e-85f5-1694024270d3" />
 <p align="right">
   <img width="320" alt="image" src="https://github.com/user-attachments/assets/b81f9a7a-6182-4b73-998c-4ed12134e84e" align="right"/>
