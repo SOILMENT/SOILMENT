@@ -1,6 +1,6 @@
 <img alt="image" src="https://github.com/user-attachments/assets/28c1491d-7599-485e-b92f-9e7e22c3d5cb" />
 <p>
-  <img width="300" alt="image" src="https://github.com/user-attachments/assets/28c1491d-7599-485e-b92f-9e7e22c3d5cb" align="left" />
+  <img width=400" alt="image" src="https://github.com/user-attachments/assets/3b61ecae-496d-49d5-88f4-96c5bccdc3dd" align="left" />
   <strong>ORACLE'S CALLING...</strong>
   <br><br>
   Your text goes here.
