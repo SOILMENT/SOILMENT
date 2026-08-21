@@ -8,6 +8,12 @@
     𝗖𝗛𝗘𝗖𝗞 𝗠𝗬 𝗥𝗘𝗡𝗧𝗥𝗬<br>
     𝗙𝗢𝗥 𝗔𝗟𝗟 𝗡𝗘𝗖𝗘𝗦𝗦𝗔𝗥𝗬 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡<br>
     ⌞──────────────────────────────⌟
+  <br>
+  <p align="center">
+   <a href="https://rentry.co/o5v87abp">
+  <img src="https://img.shields.io/badge/𝘳𝘦𝘯𝘵𝘳𝘺-e7979e?style=for-the-badge&labelColor=00acb2&logoColor=white" alt="Carrd"></a>
+   <a href="https://rentry.co/a2fywqcd">
+  <img src="https://img.shields.io/badge/𝘭𝘰𝘷𝘦𝘮𝘢𝘪𝘭-e7979e?style=for-the-badge&labelColor=00acb2&logoColor=white" alt="Carrd"></a>
   </p>
 </p>
 <img alt="image" src="https://github.com/user-attachments/assets/2f49daaa-d069-473c-ae20-fab8179058f7" />
