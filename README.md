@@ -28,7 +28,7 @@
 <br>
 <img width="900" alt="divider" src="https://github.com/user-attachments/assets/62e51b33-388a-4b01-b42d-acf657ae96f0" />
 <p align="right">
- <img width="450" alt="image" src="https://github.com/user-attachments/assets/4876507e-686e-4757-9b5d-0dd1323f6e27" align="right"/>
+ <img width="420" alt="image" src="https://github.com/user-attachments/assets/4876507e-686e-4757-9b5d-0dd1323f6e27" align="right"/>
  <br><br>
  <p align="center">
    <img width="100" alt="10f2ae7c-b04c-4de8-a5a2-3127acadf632" src="https://github.com/user-attachments/assets/71dc592d-6f7e-477e-8217-8ada12b2ac32" />
