@@ -12,6 +12,8 @@
   <p align="center">
    <a href="https://rentry.co/o5v87abp">
   <img src="https://img.shields.io/badge/𝘳𝘦𝘯𝘵𝘳𝘺-00acb2?style=for-the-badge&labelColor=00acb2&logoColor=white" alt="Carrd"></a>
+   <a href="https://bamby.atabook.org/">
+  <img src="https://img.shields.io/badge/𝘢𝘵𝘢-00acb2?style=for-the-badge&labelColor=00acb2&logoColor=white" alt="Carrd"></a>
    <a href="https://rentry.co/a2fywqcd">
   <img src="https://img.shields.io/badge/𝘭𝘰𝘷𝘦𝘮𝘢𝘪𝘭-00acb2?style=for-the-badge&labelColor=00acb2&logoColor=white" alt="Carrd"></a>
   </p>
