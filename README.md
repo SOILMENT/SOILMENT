@@ -22,7 +22,6 @@
   𝗡𝗢 𝗢𝗡𝗘 𝗨𝗡𝗗𝗘𝗥 𝟭𝟭 𝗢𝗥 𝗔𝗕𝗢𝗩𝗘 𝟮𝟰<br>
   ⌞ 𝗧𝗛𝗔𝗡𝗞 𝗬𝗢𝗨 ⌟<br>
 </div>
-<br>
 <img width="2048" alt="divider" src="https://github.com/user-attachments/assets/62e51b33-388a-4b01-b42d-acf657ae96f0" />
 <p align="right">
  <img width="500" alt="image" src="https://github.com/user-attachments/assets/4876507e-686e-4757-9b5d-0dd1323f6e27" />
