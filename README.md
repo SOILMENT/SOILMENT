@@ -37,6 +37,7 @@
  <br><br>
  <p align="center">
    <img width="150" alt="10f2ae7c-b04c-4de8-a5a2-3127acadf632" src="https://github.com/user-attachments/assets/71dc592d-6f7e-477e-8217-8ada12b2ac32" />
+<br>
  <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=4500&pause=1000&color=00acb2&center=true&vCenter=true&width=500&lines=%22I%27m+Oracle%2C+I+know+everybody.%22" alt="Oracle Quote">
 <p align="center">
