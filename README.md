@@ -20,10 +20,10 @@
   <p align="center"> 
     ⌜──────────────────────────────⌝<br>
     𝗗𝗡𝗜 // 𝗔𝗖𝗖𝗘𝗦𝗦 𝗣𝗥𝗢𝗧𝗢𝗖𝗢𝗟 <br> 
-    𝗜 𝗡𝗘𝗩𝗘𝗥 𝗛𝗔𝗩𝗘 𝗔 𝗕𝗔𝗦𝗜𝗖 ⌞⌟𝗗𝗡𝗜 𝗖𝗥𝗜𝗧𝗘𝗥𝗜𝗔<br> 
+    𝗜 𝗡𝗘𝗩𝗘𝗥 𝗛𝗔𝗩𝗘 𝗔 𝗕𝗔𝗦𝗜𝗖 𝗗𝗡𝗜 𝗖𝗥𝗜𝗧𝗘𝗥𝗜𝗔<br> 
     𝗝𝗦 𝗗𝗢𝗡'𝗧 𝗕𝗘 𝗔 𝗖𝗥𝗘𝗘𝗣<br> 
-    𝗡𝗢 𝗢𝗡𝗘 𝗨𝗡𝗗𝗘𝗥 𝟭𝟭 𝗢𝗥 𝗔𝗕𝗢𝗩𝗘 𝟮𝟰<br>
-    𝗧𝗛𝗔𝗡𝗞 𝗬𝗢𝗨<br>
+    ⌞𝗡𝗢 𝗢𝗡𝗘 𝗨𝗡𝗗𝗘𝗥 𝟭𝟭 𝗢𝗥 𝗔𝗕𝗢𝗩𝗘 𝟮𝟰<br>
+    𝗧𝗛𝗔𝗡𝗞 𝗬𝗢𝗨⌟
 <br>
 <img width="2048" alt="09560e5f-42b1-469e-b0cf-796bede32fa6" src="https://github.com/user-attachments/assets/62e51b33-388a-4b01-b42d-acf657ae96f0" />
 <img alt="image" src="https://github.com/user-attachments/assets/73b59caf-9bcb-45b9-85ac-dc1372e2c4a9" />
