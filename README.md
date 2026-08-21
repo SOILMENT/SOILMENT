@@ -26,8 +26,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 <img width="900" alt="divider" src="https://github.com/user-attachments/assets/62e51b33-388a-4b01-b42d-acf657ae96f0" />
 <p align="right">
  <img width="492" alt="image" src="https://github.com/user-attachments/assets/4876507e-686e-4757-9b5d-0dd1323f6e27" align="right"/>
