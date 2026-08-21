@@ -45,6 +45,6 @@
 <p align="center">
    <img width="70" lt="65d90e2d-cf43-44df-b243-42629df6cab5" src="https://github.com/user-attachments/assets/99b07f04-db24-478b-a8a9-74e52be93ca6" />
 <img width="900" alt="divider" src="https://github.com/user-attachments/assets/62e51b33-388a-4b01-b42d-acf657ae96f0" />
-<p align="center"
+<p align="center">
   <img width="320" alt="image" src="https://github.com/user-attachments/assets/4876507e-686e-4757-9b5d-0dd1323f6e27" />
 <img alt="image" src="https://github.com/user-attachments/assets/8d446c54-9b95-415a-92d0-856a856906b0" />
