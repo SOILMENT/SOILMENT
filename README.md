@@ -7,7 +7,6 @@
     ⌜ 𝗢𝗥𝗔𝗖𝗟𝗘 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 // 𝗔𝗖𝗖𝗘𝗦𝗦 𝗣𝗢𝗜𝗡𝗧 ⌟<br>
     𝗖𝗛𝗘𝗖𝗞 𝗠𝗬 𝗥𝗘𝗡𝗧𝗥𝗬<br>
     ⌞ 𝗙𝗢𝗥 𝗔𝗟𝗟 𝗡𝗘𝗖𝗘𝗦𝗦𝗔𝗥𝗬 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡 ⌟<br>
-  <br>
   <p align="center">
    <a href="https://rentry.co/o5v87abp">
   <img src="https://img.shields.io/badge/𝘳𝘦𝘯𝘵𝘳𝘺-00acb2?style=for-the-badge&labelColor=00acb2&logoColor=white" alt="Carrd"></a>
@@ -15,7 +14,6 @@
   <img src="https://img.shields.io/badge/𝘢𝘵𝘢-00acb2?style=for-the-badge&labelColor=00acb2&logoColor=white" alt="Carrd"></a>
    <a href="https://rentry.co/a2fywqcd">
   <img src="https://img.shields.io/badge/𝘭𝘰𝘷𝘦𝘮𝘢𝘪𝘭-00acb2?style=for-the-badge&labelColor=00acb2&logoColor=white" alt="Carrd"></a>
-  <br>
 <br clear="right"
 <div align="center">
   ⌜𝗗𝗡𝗜 // 𝗔𝗖𝗖𝗘𝗦𝗦 𝗣𝗥𝗢𝗧𝗢𝗖𝗢𝗟⌝<br>
