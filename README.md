@@ -1,6 +1,6 @@
 <img alt="image" src="https://github.com/user-attachments/assets/6ae06fe2-2c01-40e7-bf10-46136caa6b72" />
 <p align="center">
-  <img width="280" alt="image" src="https://github.com/user-attachments/assets/3b61ecae-496d-49d5-88f4-96c5bccdc3dd" align="left" />
+  <img width="300" alt="image" src="https://github.com/user-attachments/assets/3b61ecae-496d-49d5-88f4-96c5bccdc3dd" align="left" />
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=4500&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=%22I%27m+Oracle%2C+I+know+everybody.%22" alt="Oracle Quote">
   <br><br>
   <p align="center">
@@ -21,9 +21,9 @@
   ⌜──────────────────────────────⌝<br>
   𝗗𝗡𝗜 // 𝗔𝗖𝗖𝗘𝗦𝗦 𝗣𝗥𝗢𝗧𝗢𝗖𝗢𝗟 <br> 
   𝗜 𝗡𝗘𝗩𝗘𝗥 𝗛𝗔𝗩𝗘 𝗔 𝗕𝗔𝗦𝗜𝗖 𝗗𝗡𝗜 𝗖𝗥𝗜𝗧𝗘𝗥𝗜𝗔<br> 
-  𝗝𝗦 𝗗𝗢𝗡'𝗧 𝗕𝗘 𝗔 𝗖𝗥𝗘𝗘𝗣<br> 
-  𝗡𝗢 𝗢𝗡𝗘 𝗨𝗡𝗗𝗘𝗥 𝟭𝟭 𝗢𝗥 𝗔𝗕𝗢𝗩𝗘 𝟮𝟰<br>
-  ⌞ 𝗧𝗛𝗔𝗡𝗞 𝗬𝗢𝗨. ⌟
+   𝗝𝗦 𝗗𝗢𝗡'𝗧 𝗕𝗘 𝗔 𝗖𝗥𝗘𝗘𝗣<br> 
+   𝗡𝗢 𝗢𝗡𝗘 𝗨𝗡𝗗𝗘𝗥 𝟭𝟭 𝗢𝗥 𝗔𝗕𝗢𝗩𝗘 𝟮𝟰<br>
+   ⌞ 𝗧𝗛𝗔𝗡𝗞 𝗬𝗢𝗨. ⌟
 </p>
   </p>
 </p>
