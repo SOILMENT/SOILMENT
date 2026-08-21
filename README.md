@@ -50,10 +50,6 @@
 <p align="center">
   <img width="70" alt="0b23a065-5466-46a6-806a-e00908fb900f" src="https://github.com/user-attachments/assets/356279b6-93fa-4ad7-96b6-a8741a871fb7" />
 <p align="center">
-  <span style="color:#ffffff">C</span><span style="color:#497a7d">R</span><span style="color:#8bcbcd">E</span><span style="color:#ffffff">D</span><span style="color:#497a7d">S</span>
-  <span style="color:#8bcbcd"> </span>
-  <span style="color:#ffffff">T</span><span style="color:#497a7d">O</span>
-  <span style="color:#8bcbcd"> </span>
-  <span style="color:#ffffff">M</span><span style="color:#497a7d">A</span><span style="color:#8bcbcd">T</span><span style="color:#ffffff">T</span><span style="color:#497a7d">I</span>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=ORACLE+ACCESS&color=497a7d&style=for-the-badge" alt="Oracle Access Counter">
 </p>
 <img alt="image" src="https://github.com/user-attachments/assets/8d446c54-9b95-415a-92d0-856a856906b0" />
