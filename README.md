@@ -18,8 +18,7 @@
   <img src="https://img.shields.io/badge/𝘭𝘰𝘷𝘦𝘮𝘢𝘪𝘭-00acb2?style=for-the-badge&labelColor=00acb2&logoColor=white" alt="Carrd"></a>
 <br clear="right"
 <div align="center">
-  ⌜──────────────────────────⌝<br>
-  𝗗𝗡𝗜 // 𝗔𝗖𝗖𝗘𝗦𝗦 𝗣𝗥𝗢𝗧𝗢𝗖𝗢𝗟<br>
+  ⌜𝗗𝗡𝗜 // 𝗔𝗖𝗖𝗘𝗦𝗦 𝗣𝗥𝗢𝗧𝗢𝗖𝗢𝗟⌝<br>
   𝗜 𝗡𝗘𝗩𝗘𝗥 𝗛𝗔𝗩𝗘 𝗔 𝗕𝗔𝗦𝗜𝗖 𝗗𝗡𝗜 𝗖𝗥𝗜𝗧𝗘𝗥𝗜𝗔<br>
   𝗝𝗦 𝗗𝗢𝗡'𝗧 𝗕𝗘 𝗔 𝗖𝗥𝗘𝗘𝗣<br>
   𝗡𝗢 𝗢𝗡𝗘 𝗨𝗡𝗗𝗘𝗥 𝟭𝟭 𝗢𝗥 𝗔𝗕𝗢𝗩𝗘 𝟮𝟰<br>
