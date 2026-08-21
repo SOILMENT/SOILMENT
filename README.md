@@ -25,5 +25,5 @@
 <br>
 <img width="2048" alt="divider" src="https://github.com/user-attachments/assets/62e51b33-388a-4b01-b42d-acf657ae96f0" />
 <p align="right">
- <img width="310" alt="image" src="https://github.com/user-attachments/assets/4876507e-686e-4757-9b5d-0dd1323f6e27" />
+ <img width="500" alt="image" src="https://github.com/user-attachments/assets/4876507e-686e-4757-9b5d-0dd1323f6e27" />
 <img alt="image" src="https://github.com/user-attachments/assets/73b59caf-9bcb-45b9-85ac-dc1372e2c4a9" />
