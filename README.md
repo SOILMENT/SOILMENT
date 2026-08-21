@@ -31,7 +31,7 @@
  <img width="450" alt="image" src="https://github.com/user-attachments/assets/4876507e-686e-4757-9b5d-0dd1323f6e27" align="right"/>
  <br><br>
  <p align="center">
-   <img width="150" alt="10f2ae7c-b04c-4de8-a5a2-3127acadf632" src="https://github.com/user-attachments/assets/71dc592d-6f7e-477e-8217-8ada12b2ac32" />
+   <img width="100" alt="10f2ae7c-b04c-4de8-a5a2-3127acadf632" src="https://github.com/user-attachments/assets/71dc592d-6f7e-477e-8217-8ada12b2ac32" />
 <br>
 <br>
 <br>
@@ -39,5 +39,5 @@
  <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=4500&pause=1000&color=00acb2&center=true&vCenter=true&width=500&lines=%22I%27m+Oracle%2C+I+know+everybody.%22" alt="Oracle Quote">
 <p align="center">
-   <img width="150" lt="65d90e2d-cf43-44df-b243-42629df6cab5" src="https://github.com/user-attachments/assets/99b07f04-db24-478b-a8a9-74e52be93ca6" />
+   <img width="100" lt="65d90e2d-cf43-44df-b243-42629df6cab5" src="https://github.com/user-attachments/assets/99b07f04-db24-478b-a8a9-74e52be93ca6" />
 <img alt="image" src="https://github.com/user-attachments/assets/73b59caf-9bcb-45b9-85ac-dc1372e2c4a9" />
