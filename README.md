@@ -15,7 +15,6 @@
     ⌜ 𝗢𝗥𝗔𝗖𝗟𝗘 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 // 𝗔𝗖𝗖𝗘𝗦𝗦 𝗣𝗢𝗜𝗡𝗧 ⌟<br>
     𝗖𝗛𝗘𝗖𝗞 𝗠𝗬 𝗥𝗘𝗡𝗧𝗥𝗬<br>
     ⌞ 𝗙𝗢𝗥 𝗔𝗟𝗟 𝗡𝗘𝗖𝗘𝗦𝗦𝗔𝗥𝗬 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡 ⌟<br>
-    <br>
   <p align="center">
    <a href="https://rentry.co/o5v87abp">
   <img src="https://img.shields.io/badge/𝘳𝘦𝘯𝘵𝘳𝘺-00acb2?style=for-the-badge&labelColor=00acb2&logoColor=white" alt="Carrd"></a>
@@ -30,6 +29,7 @@
   𝗝𝗦 𝗗𝗢𝗡'𝗧 𝗕𝗘 𝗔 𝗖𝗥𝗘𝗘𝗣<br>
   𝗡𝗢 𝗢𝗡𝗘 𝗨𝗡𝗗𝗘𝗥 𝟭𝟭 𝗢𝗥 𝗔𝗕𝗢𝗩𝗘 𝟮𝟰<br>
   ⌞ 𝗧𝗛𝗔𝗡𝗞 𝗬𝗢𝗨 ⌟<br>
+  <br>
 </div>
 <br>
 <br>
