@@ -9,6 +9,7 @@
 <br>
 <p align="center">
   <img width="310" alt="image" src="https://github.com/user-attachments/assets/3b61ecae-496d-49d5-88f4-96c5bccdc3dd" align="left" />
+    <br>
     ⌜ 𝗢𝗥𝗔𝗖𝗟𝗘 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 // 𝗔𝗖𝗖𝗘𝗦𝗦 𝗣𝗢𝗜𝗡𝗧 ⌟<br>
     𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡'𝗦 𝗦𝗖𝗔𝗥𝗟𝗘𝗧 𝗪𝗜𝗧𝗖𝗛 <br>
     // <a href="https://github.com/pt-hall-of-media">pt-hall-of-media</a> //<br>
