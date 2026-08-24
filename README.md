@@ -66,17 +66,33 @@
 
 <img width="310" alt="image" src="https://github.com/user-attachments/assets/3b61ecae-496d-49d5-88f4-96c5bccdc3dd" align="left" />
 
-<br><br><br>
+<br><br>
 
 <div align="center">
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 ⌜ 𝗢𝗥𝗔𝗖𝗟𝗘 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 // 𝗔𝗖𝗖𝗘𝗦𝗦 𝗣𝗢𝗜𝗡𝗧 ⌟<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡'𝗦 𝗦𝗖𝗔𝗥𝗟𝗘𝗧 𝗪𝗜𝗧𝗖𝗛<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 // <a href="https://github.com/pt-hall-of-media">pt-hall-of-media</a> //<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 𝗖𝗛𝗘𝗖𝗞 𝗠𝗬 𝗥𝗘𝗡𝗧𝗥𝗬<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 ⌞ 𝗙𝗢𝗥 𝗔𝗟𝗟 𝗡𝗘𝗖𝗘𝗦𝗦𝗔𝗥𝗬 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡 ⌟
 
 <br><br><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://rentry.co/o5v87abp">
 <img src="https://img.shields.io/badge/𝘳𝘦𝘯𝘵𝘳𝘺-00acb2?style=plastic&labelColor=00acb2&logoColor=white" width="70" height="30">
@@ -92,10 +108,24 @@
 
 <br><br><br><br>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 ⌜ 𝗗𝗡𝗜 // 𝗔𝗖𝗖𝗘𝗦𝗦 𝗣𝗥𝗢𝗧𝗢𝗖𝗢𝗟 ⌝<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 𝗜 𝗡𝗘𝗩𝗘𝗥 𝗛𝗔𝗩𝗘 𝗔 𝗕𝗔𝗦𝗜𝗖 𝗗𝗡𝗜 𝗖𝗥𝗜𝗧𝗘𝗥𝗜𝗔<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 𝗝𝗦 𝗗𝗢𝗡'𝗧 𝗕𝗘 𝗔 𝗖𝗥𝗘𝗘𝗣<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 𝗡𝗢 𝗢𝗡𝗘 𝗨𝗡𝗗𝗘𝗥 𝟭𝟭 𝗢𝗥 𝗔𝗕𝗢𝗩𝗘 𝟮𝟰<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 ⌞ 𝗧𝗛𝗔𝗡𝗞 𝗬𝗢𝗨 ⌟
 
 </div>
