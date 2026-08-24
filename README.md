@@ -60,6 +60,8 @@
    </p>
 </p>
 <p align="center">
-<a href="https://github.com/timstalkerdrake">
-  <img src="https://img.shields.io/badge/credits%20to%20matti-555555?style=for-the-badge&labelColor=8bcbcd&logoColor=8bcbcd" alt="Credits to Matti">
+  <a href="https://github.com/timstalkerdrake">
+    <img src="https://img.shields.io/badge/credits%20to%20matti-555555?style=for-the-badge&labelColor=8bcbcd&logoColor=8bcbcd" alt="Credits to Matti">
+  </a>
+</p>
 <img alt="image" src="https://github.com/user-attachments/assets/8d446c54-9b95-415a-92d0-856a856906b0" />
