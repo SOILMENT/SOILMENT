@@ -62,40 +62,44 @@
 
 
 
-<table>
-<tr>
-<td width="45%" align="center" valign="middle">
+<p align="center">
 
-<img width="310" alt="image" src="https://github.com/user-attachments/assets/3b61ecae-496d-49d5-88f4-96c5bccdc3dd" />
+<img width="310" alt="image" src="https://github.com/user-attachments/assets/3b61ecae-496d-49d5-88f4-96c5bccdc3dd" align="left" />
 
-</td>
+<br><br><br>
 
-<td width="55%" align="center" valign="middle">
+<div align="center">
 
 ⌜ 𝗢𝗥𝗔𝗖𝗟𝗘 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 // 𝗔𝗖𝗖𝗘𝗦𝗦 𝗣𝗢𝗜𝗡𝗧 ⌟<br>
 𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡'𝗦 𝗦𝗖𝗔𝗥𝗟𝗘𝗧 𝗪𝗜𝗧𝗖𝗛<br>
 // <a href="https://github.com/pt-hall-of-media">pt-hall-of-media</a> //<br>
 𝗖𝗛𝗘𝗖𝗞 𝗠𝗬 𝗥𝗘𝗡𝗧𝗥𝗬<br>
-⌞ 𝗙𝗢𝗥 𝗔𝗟𝗟 𝗡𝗘𝗖𝗘𝗦𝗦𝗔𝗥𝗬 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡 ⌟<br><br>
+⌞ 𝗙𝗢𝗥 𝗔𝗟𝗟 𝗡𝗘𝗖𝗘𝗦𝗦𝗔𝗥𝗬 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡 ⌟
+
+<br><br><br>
 
 <a href="https://rentry.co/o5v87abp">
 <img src="https://img.shields.io/badge/𝘳𝘦𝘯𝘵𝘳𝘺-00acb2?style=plastic&labelColor=00acb2&logoColor=white" width="70" height="30">
 </a>
+
 <a href="https://bamby.atabook.org/">
 <img src="https://img.shields.io/badge/𝘢𝘵𝘢-00acb2?style=plastic&labelColor=00acb2&logoColor=white" width="60" height="30">
 </a>
+
 <a href="https://rentry.co/a2fywqcd">
 <img src="https://img.shields.io/badge/𝘭𝘰𝘷𝘦𝘮𝘢𝘪𝘭-00acb2?style=plastic&labelColor=00acb2&logoColor=white" width="100" height="30">
 </a>
 
-<br><br>
+<br><br><br><br>
 
-⌜𝗗𝗡𝗜 // 𝗔𝗖𝗖𝗘𝗦𝗦 𝗣𝗥𝗢𝗧𝗢𝗖𝗢𝗟⌝<br>
+⌜ 𝗗𝗡𝗜 // 𝗔𝗖𝗖𝗘𝗦𝗦 𝗣𝗥𝗢𝗧𝗢𝗖𝗢𝗟 ⌝<br>
 𝗜 𝗡𝗘𝗩𝗘𝗥 𝗛𝗔𝗩𝗘 𝗔 𝗕𝗔𝗦𝗜𝗖 𝗗𝗡𝗜 𝗖𝗥𝗜𝗧𝗘𝗥𝗜𝗔<br>
 𝗝𝗦 𝗗𝗢𝗡'𝗧 𝗕𝗘 𝗔 𝗖𝗥𝗘𝗘𝗣<br>
 𝗡𝗢 𝗢𝗡𝗘 𝗨𝗡𝗗𝗘𝗥 𝟭𝟭 𝗢𝗥 𝗔𝗕𝗢𝗩𝗘 𝟮𝟰<br>
 ⌞ 𝗧𝗛𝗔𝗡𝗞 𝗬𝗢𝗨 ⌟
 
-</td>
-</tr>
-</table>
+</div>
+
+</p>
+
+<br clear="all">
