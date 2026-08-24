@@ -36,7 +36,7 @@
 <br>
 <br>
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/e3bcda8e-b2c0-454e-85f5-1694024270d3" />
-<p align="center"
+<p align="center">
   ╭───────────────────────────╮<br>
   𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡'𝗦 𝗦𝗖𝗔𝗥𝗟𝗘𝗧 𝗪𝗜𝗧𝗖𝗛<br>
   // <a href="https://github.com/pt-hall-of-media">pt-hall-of-media</a> //<br>
