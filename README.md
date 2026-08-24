@@ -42,7 +42,7 @@
   <tr>
     <td align="center">
       <b>𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡'𝗦 𝗦𝗖𝗔𝗥𝗟𝗘𝗧 𝗪𝗜𝗧𝗖𝗛</b><br>
-      ✦ <a href="https://github.com/pt-hall-of-media">@paw-town</a> ✦
+      // <a href="https://github.com/pt-hall-of-media">@paw-town</a> //
     </td>
   </tr>
 </table>
