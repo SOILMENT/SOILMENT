@@ -40,7 +40,7 @@
 <p align="center">
   ╭───────────────────────────╮<br>
   𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡'𝗦 𝗦𝗖𝗔𝗥𝗟𝗘𝗧 𝗪𝗜𝗧𝗖𝗛<br>
-  // <a href="https://github.com/pt-hall-of-media">@paw-town</a> //<br>
+  // <a href="https://github.com/pt-hall-of-media">pt-hall-of-media</a> //<br>
   ╰───────────────────────────╯
 </p>
 <p align="center">
