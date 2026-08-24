@@ -38,6 +38,14 @@
 <p align="center">
   <img alt="image" src="https://komarev.com/ghpvc/?username=SOILMENT&color=8bcbcd&label=HACKERS&style=for-the-badge" />
 <p align="center">
+
+  ╭──────────────────────────────────────╮<br>
+  │ &nbsp;𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡'𝗦 𝗦𝗖𝗔𝗥𝗟𝗘𝗧 𝗪𝗜𝗧𝗖𝗛&nbsp; │<br>
+  ╰──────────────────────────────────────╯<br>
+  <br>
+  <a href="https://github.com/pt-hall-of-media">
+    <code>✦ @paw-town ✦</code>
+<p align="center">
   𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡'𝗦 𝗦𝗖𝗔𝗥𝗟𝗘𝗧 𝗪𝗜𝗧𝗖𝗛
   <a href="https://github.com/pt-hall-of-media">@paw-town</a><br>
 <p align="center">
