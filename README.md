@@ -46,7 +46,7 @@
 <p align="center">
   <img alt="image" src="https://komarev.com/ghpvc/?username=SOILMENT&color=8bcbcd&label=HACKERS&style=for-the-badge" />
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/e3bcda8e-b2c0-454e-85f5-1694024270d3" />
-<img width="320" alt="image" src="https://github.com/user-attachments/assets/b81f9a7a-6182-4b73-998c-4ed12134e84e" align="right">
+<img width="330" alt="image" src="https://github.com/user-attachments/assets/b81f9a7a-6182-4b73-998c-4ed12134e84e" align="right">
 <p align="center">
   <img width="70" alt="image" src="https://github.com/user-attachments/assets/1677a42b-e72d-4695-9e40-5b704f55a88b" />
 </p>
