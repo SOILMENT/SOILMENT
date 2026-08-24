@@ -48,15 +48,15 @@
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/e3bcda8e-b2c0-454e-85f5-1694024270d3" />
 <img width="320" alt="image" src="https://github.com/user-attachments/assets/b81f9a7a-6182-4b73-998c-4ed12134e84e" align="right">
 
-<p align="center">
+<p align="left">
   <img width="70" alt="image" src="https://github.com/user-attachments/assets/1677a42b-e72d-4695-9e40-5b704f55a88b" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=4500&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=%22I%27m+Oracle%2C+I+know+everybody.%22" alt="Oracle Quote">
 </p>
 
-<p align="center">
+<p align="left">
   <img width="70" alt="image" src="https://github.com/user-attachments/assets/356279b6-93fa-4ad7-96b6-a8741a871fb7" />
 </p>
 <br>
