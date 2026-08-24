@@ -46,9 +46,7 @@
 <p align="center">
   <img alt="image" src="https://komarev.com/ghpvc/?username=SOILMENT&color=8bcbcd&label=HACKERS&style=for-the-badge" />
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/e3bcda8e-b2c0-454e-85f5-1694024270d3" />
-<p align="right">
-  <img width="320" alt="image" src="https://github.com/user-attachments/assets/b81f9a7a-6182-4b73-998c-4ed12134e84e" />
-</p>
+<img width="320" alt="image" src="https://github.com/user-attachments/assets/b81f9a7a-6182-4b73-998c-4ed12134e84e" align="right">
 
 <p align="center">
   <img width="70" alt="image" src="https://github.com/user-attachments/assets/1677a42b-e72d-4695-9e40-5b704f55a88b" />
@@ -67,8 +65,6 @@
     <img src="https://img.shields.io/badge/credits%20to%20matti-555555?style=for-the-badge&labelColor=8bcbcd&logoColor=8bcbcd" alt="Credits to Matti">
   </a>
 </p>
-
-
 
 
 
