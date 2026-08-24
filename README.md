@@ -27,6 +27,7 @@
   𝗝𝗦 𝗗𝗢𝗡'𝗧 𝗕𝗘 𝗔 𝗖𝗥𝗘𝗘𝗣<br>
   𝗡𝗢 𝗢𝗡𝗘 𝗨𝗡𝗗𝗘𝗥 𝟭𝟭 𝗢𝗥 𝗔𝗕𝗢𝗩𝗘 𝟮𝟰<br>
   ⌞ 𝗧𝗛𝗔𝗡𝗞 𝗬𝗢𝗨 ⌟<br>
+  <img alt="image" src="https://komarev.com/ghpvc/?username=SOILMENT&color=8bcbcd&label=HACKERS&style=plastic" /><br>
 </div>
 <br>
 <br>
