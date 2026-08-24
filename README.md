@@ -58,3 +58,16 @@
     <p align="center"> 
       <img width="70" alt="0b23a065-5466-46a6-806a-e00908fb900f" src="https://github.com/user-attachments/assets/356279b6-93fa-4ad7-96b6-a8741a871fb7" />
 <img alt="image" src="https://github.com/user-attachments/assets/ef60b075-d352-4956-97d4-69b18115b38a" />
+
+
+
+
+<p align="center">
+  <img width="310" alt="image" src="https://github.com/user-attachments/assets/3b61ecae-496d-49d5-88f4-96c5bccdc3dd" align="left" />
+  <br>
+
+  ⌜ 𝗢𝗥𝗔𝗖𝗟𝗘 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 // 𝗔𝗖𝗖𝗘𝗦𝗦 𝗣𝗢𝗜𝗡𝗧 ⌟<br>
+  𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡'𝗦 𝗦𝗖𝗔𝗥𝗟𝗘𝗧 𝗪𝗜𝗧𝗖𝗛 <br>
+  // <a href="https://github.com/pt-hall-of-media">pt-hall-of-media</a> //<br>
+  𝗖𝗛𝗘𝗖𝗞 𝗠𝗬 𝗥𝗘𝗡𝗧𝗥𝗬<br>
+  ⌞ 𝗙𝗢𝗥 𝗔𝗟𝗟 𝗡𝗘𝗖𝗘𝗦𝗦𝗔𝗥𝗬 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡 ⌟<br>
