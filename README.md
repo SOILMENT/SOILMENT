@@ -37,7 +37,7 @@
 <br>
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/e3bcda8e-b2c0-454e-85f5-1694024270d3" />
 <p align="center">
-  <img alt="image" src="https://komarev.com/ghpvc/?username=SOILMENT&color=8bcbcd&label=HACKERS&style=plastic" /><br>
+  <img alt="image" src="https://komarev.com/ghpvc/?username=SOILMENT&color=8bcbcd&label=HACKERS&style=for-the-badge" /><br>
   ╭───────────────────────────╮<br>
   𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡'𝗦 𝗦𝗖𝗔𝗥𝗟𝗘𝗧 𝗪𝗜𝗧𝗖𝗛<br>
   // <a href="https://github.com/pt-hall-of-media">pt-hall-of-media</a> //<br>
@@ -45,8 +45,6 @@
 </p>
 <p align="center">
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/4876507e-686e-4757-9b5d-0dd1323f6e27" /><br>
-<p align="center">
-    <img alt="image" src="https://komarev.com/ghpvc/?username=SOILMENT&color=8bcbcd&label=HACKERS&style=plastic" /><br>
 <p align="center"> 
   <a href="https://github.com/timstalkerdrake"> 
     <img src="https://img.shields.io/badge/credits%20to%20matti-555555?style=for-the-badge&labelColor=8bcbcd&logoColor=8bcbcd" alt="Credits to Matti"><br>
