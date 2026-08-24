@@ -50,20 +50,10 @@
 <p align="center">
   <img width="70" alt="image" src="https://github.com/user-attachments/assets/1677a42b-e72d-4695-9e40-5b704f55a88b" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=4500&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=%22I%27m+Oracle%2C+I+know+everybody.%22" alt="Oracle Quote">
 </p>
-
 <p align="center">
   <img width="70" alt="image" src="https://github.com/user-attachments/assets/356279b6-93fa-4ad7-96b6-a8741a871fb7" />
-</p>
-<br>
-<br>
-<br>
-<p align="right">
-  <a href="https://github.com/timstalkerdrake">
-    <img src="https://img.shields.io/badge/credits%20to%20matti-555555?style=for-the-badge&labelColor=8bcbcd&logoColor=8bcbcd" alt="Credits to Matti">
-  </a>
 </p>
 <img alt="image" src="https://github.com/user-attachments/assets/ef60b075-d352-4956-97d4-69b18115b38a" />
