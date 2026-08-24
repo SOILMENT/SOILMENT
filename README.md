@@ -10,7 +10,6 @@
 <p align="center">
   <img width="310" alt="image" src="https://github.com/user-attachments/assets/3b61ecae-496d-49d5-88f4-96c5bccdc3dd" align="left" />
   <br><br>
-    <img alt="image" src="https://komarev.com/ghpvc/?username=SOILMENT&color=8bcbcd&label=HACKERS&style=plastic" /><br>
     ⌜ 𝗢𝗥𝗔𝗖𝗟𝗘 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 // 𝗔𝗖𝗖𝗘𝗦𝗦 𝗣𝗢𝗜𝗡𝗧 ⌟<br>
     𝗖𝗛𝗘𝗖𝗞 𝗠𝗬 𝗥𝗘𝗡𝗧𝗥𝗬<br>
     ⌞ 𝗙𝗢𝗥 𝗔𝗟𝗟 𝗡𝗘𝗖𝗘𝗦𝗦𝗔𝗥𝗬 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡 ⌟<br>
@@ -38,6 +37,7 @@
 <br>
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/e3bcda8e-b2c0-454e-85f5-1694024270d3" />
 <p align="center">
+  <img alt="image" src="https://komarev.com/ghpvc/?username=SOILMENT&color=8bcbcd&label=HACKERS&style=plastic" /><br>
   ╭───────────────────────────╮<br>
   𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡'𝗦 𝗦𝗖𝗔𝗥𝗟𝗘𝗧 𝗪𝗜𝗧𝗖𝗛<br>
   // <a href="https://github.com/pt-hall-of-media">pt-hall-of-media</a> //<br>
@@ -52,7 +52,6 @@
     <img src="https://img.shields.io/badge/credits%20to%20matti-555555?style=for-the-badge&labelColor=8bcbcd&logoColor=8bcbcd" alt="Credits to Matti"><br>
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/e3bcda8e-b2c0-454e-85f5-1694024270d3" />
 <p align="right"> 
-  <img alt="image" src="https://komarev.com/ghpvc/?username=SOILMENT&color=8bcbcd&label=HACKERS&style=plastic" /><br>
   <img width="370" alt="image" src="https://github.com/user-attachments/assets/b81f9a7a-6182-4b73-998c-4ed12134e84e" align="right"/> 
   <br><br> 
   <br>
