@@ -19,7 +19,7 @@
             
 
   [新book](https://bamby.atabook.org/)  
-
+              $\text{\color{#b43155} ᭝ྀི♡༉}$
   <br>
     <br>
       <br>
