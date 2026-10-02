@@ -21,7 +21,7 @@
              
 
   <br>
-    <br
+    <br>
       <br>
         <br>
         <img align="left" src="https://github.com/user-attachments/assets/9b4f376b-f694-4143-b54a-38bccf0e889b" width=400>
@@ -49,6 +49,3 @@ $\text{\color{#b54d73} CHECK}$ $\text{\color{#b86d7e}⠀RENTRY　 }$ $\text{\col
                     <br>
                 </div>
                 <br>
-       
-       
-      
