@@ -45,7 +45,6 @@
 $\text{\color{#b54d73} CHECK}$ $\text{\color{#b86d7e}⠀RENTRY　 }$ $\text{\color{#b43155} FOR}$ $\text{\color{#b54d73} INFO}$ 
                     <br>
    $\text{\color{#b43155} basic}$ $\text{\color{#b86d7e} ˙.}$ $\text{\color{#741f54} dni}$
-           <summary>AWARDS</summary><h5 align="center">  
             <br>
                     <br>
                 </div>
