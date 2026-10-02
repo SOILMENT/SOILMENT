@@ -18,7 +18,7 @@
             <br>
             
 
-  [新book](https://bamby.atabook.org/) ${\ [新book](https://bamby.atabook.org/){\color{#b86d7e} 
+  [新book](https://bamby.atabook.org/)  
 
   <br>
     <br>
