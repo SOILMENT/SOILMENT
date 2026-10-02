@@ -18,7 +18,7 @@
             <br>
             
 
-             
+  [新book](https://bamby.atabook.org/)  
 
   <br>
     <br>
