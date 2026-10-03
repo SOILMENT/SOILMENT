@@ -18,7 +18,7 @@
             <br>
             
 
-  [新book](https://bamby.atabook.org/)  
+  [新book](https://bamby.atabook.org/)  [lovemail](https://rentry.co/a2fywqcd)
               $\text{\color{#b43155} ᭝ྀི♡༉}$
   <br>
     <br>
