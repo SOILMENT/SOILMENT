@@ -45,7 +45,7 @@
                     <br>
 $\text{\color{#b54d73} CHECK}$ $\text{\color{#b86d7e}⠀RENTRY　 }$ $\text{\color{#b43155} FOR}$ $\text{\color{#b54d73} INFO}$ 
                     <br>
-   $\text{\color{#b43155} Pakistani}$ $\text{\color{#b86d7e} ˙.}$ $\text{\color{#741f54} <3}$ creds to Tony for my README+pfp
+   $\text{\color{#b43155} Pakistani}$ $\text{\color{#b86d7e} ˙.}$ $\text{\color{#741f54} <3}$ 
    <details>
   <summary>AWARDS</summary><h5 align="center">
      <a href="https://github.com/pt-hall-of-media">pt-hall-of-media</a> <br>  <a href=https://github.com/paw-town>paw-town<a> <br>
@@ -53,3 +53,4 @@ $\text{\color{#b54d73} CHECK}$ $\text{\color{#b86d7e}⠀RENTRY　 }$ $\text{\col
                     <br>
                 </div>
                 <br>
+creds to Tony for readme+pfp}$ $\text{\color{#741f54} <3}$ 
