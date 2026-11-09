@@ -53,4 +53,4 @@ $\text{\color{#b54d73} CHECK}$ $\text{\color{#b86d7e}⠀RENTRY　 }$ $\text{\col
                     <br>
                 </div>
                 <br>
-creds to Tony for readme+pfp}$ $\text{\color{#741f54} <3}$ 
+$\text{\color{#b43155}creds to Tony for readme+pfp}$ $\text{\color{#741f54} <3}$ 
