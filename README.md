@@ -55,4 +55,4 @@ $\text{\color{#b54d73} CHECK}$ $\text{\color{#b86d7e}⠀RENTRY　 }$ $\text{\col
                 </div>
                 <br>
 $\text{\color{#b43155}creds to Tony for readme+pfp}$ $\text{\color{#741f54} <3}$ 
-<summary>FREINDS/FAM</summary><h5 align="center"> 
+
